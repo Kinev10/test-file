@@ -1,0 +1,8 @@
+A record company needs a system in which they can keep track of their artists, bands,
+albums and songs.
+The system needs to be able to track copyrights through time on a song, album and band
+level, as well as to know a band’s formation at a given time.
+For complexity’s sake, we’ll assume that:
+● An album can only belong to one band
+● A song can only belong to one album
+● An artist cannot join a band after they leave it.
